@@ -1,0 +1,34 @@
+# ==== Format ====
+# :emoji: prefix: Subject
+
+# Commit body (Why)
+
+
+# ==== Emoji ====
+# :tada: initial commit (feat)
+# :bookmark: release / version tags (chore)
+# :sparkles: introduce (partial) new features (feat)
+# :memo: add or update docs. (docs)
+# :rocket: improve performance (feat)
+# :art: improve structure / format of the code (such as UI/UX) (style)
+# :recycle: refactoring (refactor)
+# :bug: fix a bug (fix)
+# :shirt: fix lint error and code styles (fix)
+# :fire: remove files / directory (remove)
+# :shower: remove unnecessary features (remove/refactor)
+# :green_heart: fix/improve test code and CI (test)
+# :up: update such as packages (chore)
+# :chart_with_upwards_trend: add/update for analizing data (analysis)
+# :adhesive_bandage: simple fix for a non-critical issue (fix/chore)
+# :truck: move or rename resources (e.g.: files, paths, routes) (chore/feat/style)
+
+
+# ==== Prefix ====
+# fix
+# feat
+# docs
+# style
+# refactor
+# test
+# chore
+# analysis
